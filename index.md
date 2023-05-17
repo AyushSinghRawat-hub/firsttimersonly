@@ -20,7 +20,8 @@ If you have never contributed to an open source project before and you're just g
 
 ### Yes, it's scary. But SO rewarding!
 
-We asked folks on Twitter what they felt when they made their first contribution to an open source project. Here are just a few of their tweets.
+We asked folks on Twitter what they felt when they made their first contribution to an open source project.<br>
+Here are just a few of their tweets.
 
 Some had great experiences:
 
@@ -66,5 +67,5 @@ Markdown snippet:
 
 ### Empower a First Timer today!
 We believe - and we hope you do too - that learning how to code, how to think, *and* _how to contribute to open source_ can empower the next generation of coders and creators. We VALUE first time contributors and we want them to know that everyone started somewhere! Start here!
-
+--
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
